@@ -1,0 +1,8 @@
+div#inbox {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  max-width: 800px;
+  text-align: left;
+}

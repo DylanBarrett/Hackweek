@@ -1,0 +1,15 @@
+.tutor-desc {
+  text-align: left;
+}
+.subject-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.subject {
+  text-transform: capitalize;
+  padding-right: 10px;
+  list-style: none;
+}
+.select-tutor-button {
+  text-align: center;
+}

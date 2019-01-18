@@ -1,0 +1,8 @@
+.error {
+  color: red;
+  text-align: left;
+}
+.formInput {
+  width: 400px;
+  margin: 0 auto;
+}

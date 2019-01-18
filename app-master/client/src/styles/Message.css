@@ -1,0 +1,30 @@
+li {
+  list-style-type: none;
+}
+
+li > div {
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px;
+  max-width: 60%;
+}
+
+li.outgoingMessage {
+  color: white;
+  text-align: right;
+}
+
+li.outgoingMessage > div {
+  background-color: royalblue;
+}
+
+li.incomingMessage {
+  color: black;
+  text-align: left;
+}
+
+
+li.incomingMessage > div {
+  background-color: lightgrey;
+}

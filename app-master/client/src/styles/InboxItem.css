@@ -1,0 +1,7 @@
+div#inboxItem {
+  margin-bottom: 5px;
+  border: 2px solid lightgray;
+  border-radius: 5px;
+  padding-top: 5px;
+  background-color: #f9f9f9
+}
